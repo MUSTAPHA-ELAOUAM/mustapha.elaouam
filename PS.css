@@ -1,0 +1,59 @@
+body{
+    background-image:url(hiko.jpg) ; 
+
+}
+.M1{
+    width: 500px;
+    height: 500px;
+    background-color: #E0AFA0;
+    border: 1px solid #06060683;
+    margin: auto;
+    margin-top: 70px;
+    box-shadow: 0 0 18px 6px black;
+    border-radius: 70px ;
+}
+.H1{
+    text-align: center;
+    font-family: "Copperplate", "Papyrus", "fantasy";
+    font-size: 3.5em;
+    color: #876155;
+    text-shadow: 3px 4px rgba(6, 6, 6, 0.131);
+    
+}
+.D1{
+    text-align: center;
+    line-height: 30px;
+    
+    
+}
+span{
+    font-family:"Trebuchet MS", Helvetica, sans-serif;
+    font-size: 1em;
+    color: #593e36;
+}
+button{
+    border-radius: 10px;
+    font-size: 25px;
+    margin:23px 0 0 20px;
+    background-color:#817c7685 ;
+
+
+}
+input[type="text"]{
+    background-attachment: fixed;
+    background-color: #F4F3EE ;
+    border-radius: 10px;
+    padding-left: 12px;
+    padding: 4px 0 4px 10px;
+    margin-left: 20px;
+}
+input[type="number" ]{
+    background-attachment: fixed;
+    background-color:#F4F3EE ;
+    border-radius: 10px;
+    padding: 4px 0 4px 10px;
+    margin: 15px 0 20px 30px;
+}
+hr{
+    margin: -30px 0 40px 0 ;
+}
